@@ -6,7 +6,7 @@ modified:
 
 tags: []
 image: 01b4f45864c2bba801219c7720beba.gif
-feature: 01b4f45864c2bba801219c7720beba.gif
+feature: 
 teaser:
 ---
 
