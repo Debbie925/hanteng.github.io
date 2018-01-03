@@ -1,23 +1,23 @@
 # Site navigation links
 
-- title: 首页
+- title: 网页设计作品集
   url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
+  excerpt: "Web design"
   image: learning_teaching.gif
 
-- title: 网页设计作品集
+- title: 信息可视化作品集
   url: /portfolio/
-  excerpt: "Web design"
+  excerpt: "tableau"
   image: Portfolio.svg
 
-- title: 信息可视化作品集
+- title: web学习笔记
   url: /i18nl10n/
-  excerpt: "tableau"
+  excerpt: "HTML5+CSS3"
   image: Tower_of_Babel.jpg
 
-- title: 学习笔记
+- title: 信息可视化学习笔记
   url: /SDG/
-  excerpt: "web学习笔记+信息可视化学习笔记"
+  excerpt: "信息可视化"
   image: 300x200.gif
 
 - title: 学习心得
