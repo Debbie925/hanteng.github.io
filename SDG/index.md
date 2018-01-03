@@ -6,8 +6,8 @@ modified:
 
 tags: []
 image: 01b4f45864c2bba801219c7720beba.gif
-  feature: 01b4f45864c2bba801219c7720beba.gif
-  teaser:
+feature: 01b4f45864c2bba801219c7720beba.gif
+teaser:
 ---
 
 确实是一个好东西
